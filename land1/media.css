@@ -1,0 +1,18 @@
+@media(max-width: 575px){
+	.menu{
+		position: inherit;
+	}
+	.menu a{
+		width: 100%;
+		padding: 20px 0;
+	}
+	.member{
+		min-width: 80%;
+	}
+	.tarif{
+		width:80%;
+	}
+	#company img{
+		float: none;
+	}
+}
